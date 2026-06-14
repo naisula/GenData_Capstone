@@ -1,2 +1,2 @@
 # GenData_Capstone
-A repository that contains my general data analysis project with excel - using apples 2009-2024 dataset
+A financial data analytics project comparing Apple, Microsoft, Google and Samsung across 16 years of revenue, profitability and growth metrics, visualised through an interactive Excel dashboard.
